@@ -1,9 +1,7 @@
-import logo from './assets/image/logo.png';
-import bannerLeft from './assets/image/banner-left.png'; // Fixed path
-import bannerRight from './assets/image/banner-right.png';
-import aboutUs from './assets/image/about-us-image.jpg';
-import videoThumb from './assets/image/video-thumb.jpg';
-import happyClient from './assets/image/happyclient-01.jpg';
+
+import aboutUs from '../images/about-us-image.jpg';
+import videoThumb from "../images/video-thumb.jpg"; // Fixed path
+import happyClient from "../images/happyclient-01.jpg" // Fixed path
 
 function Section() {
     return (
